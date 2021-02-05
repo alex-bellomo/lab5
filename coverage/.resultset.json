@@ -34,17 +34,13 @@
   },
   "Unit Tests": {
     "coverage": {
-      "/home/alex/Documents/cmu/373/lab5-choretracker-starter/app/models/child.rb": [
+      "/home/alex/Documents/cmu/373/lab5-choretracker-starter/app/models/task.rb": [
         1,
         1,
         1,
         null,
         1,
         1,
-        null,
-        1,
-        3,
-        null,
         null,
         3,
         2,
@@ -62,8 +58,18 @@
         1,
         null
       ],
-      "/home/alex/Documents/cmu/373/lab5-choretracker-starter/app/models/task.rb": [
+      "/home/alex/Documents/cmu/373/lab5-choretracker-starter/app/models/child.rb": [
         1,
+        1,
+        1,
+        null,
+        1,
+        1,
+        null,
+        1,
+        0,
+        null,
+        null,
         1,
         1,
         null
@@ -320,6 +326,6 @@
         0
       ]
     },
-    "timestamp": 1612491407
+    "timestamp": 1612491618
   }
 }
